@@ -1,0 +1,1 @@
+This is the first step to implement a modular SIP, RTP and STUN server that could dinamically change the role. At this moment it's only a didactical implementation
